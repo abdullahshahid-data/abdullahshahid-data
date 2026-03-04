@@ -98,7 +98,7 @@ Kafka Spark Delta Lakehouse BI/ML Lineage
 
 - 💼 LinkedIn: https://linkedin.com/in/abdullahshahid1  
 - 📧 abdullahshahid.data@gmail.com  
-- 🌐 Portfolio: https://abdullahshahid.com ](https://abdullahshahid-data.github.io/portfolio/
+- 🌐 Portfolio: [https://abdullahshahid.com ](https://abdullahshahid-data.github.io/portfolio/)
 
 ---
 
