@@ -5,7 +5,7 @@
 ---
 
 # ⚡ Abdullah Shahid  
-### 🧠 Staff-Level Data Platform Engineer | Distributed Systems | Real-Time & Batch at Scale  
+### 🧠 Data Platform Engineer | Distributed Systems | Real-Time & Batch at Scale  | Data Engineer
 
 <p align="center">
 Building high-performance data ecosystems powering Analytics, ML & Enterprise Intelligence.
@@ -98,7 +98,7 @@ Kafka Spark Delta Lakehouse BI/ML Lineage
 
 - 💼 LinkedIn: https://linkedin.com/in/abdullahshahid1  
 - 📧 abdullahshahid.data@gmail.com  
-- 🌐 Portfolio: https://abdullahshahid.com  
+- 🌐 Portfolio: https://abdullahshahid.com ](https://abdullahshahid-data.github.io/portfolio/
 
 ---
 
